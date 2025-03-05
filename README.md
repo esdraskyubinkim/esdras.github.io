@@ -13,7 +13,7 @@
 &nbsp;
 
 ## Skills  
-**Java** &nbsp;  
+ &nbsp;  
 - 백준 브론즈 4 티어 &nbsp;  
 &nbsp;  
 
